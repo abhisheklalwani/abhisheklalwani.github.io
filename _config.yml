@@ -24,7 +24,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/WebsiteDP.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -39,20 +39,17 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  email: "abhisheklalwani96@gmail.com"
+  facebook: https://www.facebook.com/abhishek.lalwani.50/
+  github: abhisheklalwani
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: https://www.linkedin.com/in/abhishek-lalwani-ba24a6138/
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: lalu_209
 #  spotify: yourname
-#  telephone: +14159998888
+  telephone: +918239990170
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
@@ -64,13 +61,13 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+# rss-description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: true
   linkedin: true
   vk: false
