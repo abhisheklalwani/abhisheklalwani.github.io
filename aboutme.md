@@ -1,16 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Who am I?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+I am currently a graduate student in Computer Science at the University of Massachusetts, Amherst.<br>
+I like to code pretty much anything and everything.<br> 
+I like ML/AI/DL/CV/NLP/ABC/DEF/ETC (like everyone else nowadays), but more importantly, I am passionate about designing and deploying these technology stacks at a practical scale where it can be used to make the life of an end-user somewhat better.<br>
+I am a competitive gamer (Valorant FTW!) who also happens to know how ML algorithm works and thus, my work at NVIDIA has revolved around research problems that combine these 2 worlds i.e. gaming and AI (For example, take a look at this). At NVIDIA, I was also responsible for the development of various aspects of the Desktop and the Browser Client of GeForce Now, the state-of-the-art game streaming service by NVIDIA.<br>
+My work involved working closely with the UX team as well as the backend team to provide a flawless experience to the end-users.<br>
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Take a look at my [LinkedIn](https://www.linkedin.com/in/abhishek-lalwani-ba24a6138/) if you want to know what all I did in my life and when I did it and where I did it etc.
