@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Who am I?
+subtitle: I am currently a graduate student in Computer Science at the University of Massachusetts, Amherst.
 ---
 
 I am currently a graduate student in Computer Science at the University of Massachusetts, Amherst.<br>
