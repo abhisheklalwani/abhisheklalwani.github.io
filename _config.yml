@@ -15,10 +15,10 @@ author: Abhishek Lalwani
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://abhisheklalwani.github.io/"
+  #Resources:
+    #- Beautiful Jekyll: "https://beautifuljekyll.com"
+    #- Learn markdown: "https://www.markdowntutorial.com/"
+  #Author's home: "https://abhisheklalwani.github.io/"
 
 # --- Logo --- #
 
@@ -43,7 +43,7 @@ social-network-links:
   facebook: abhishek.lalwani.50
   github: abhisheklalwani
 #  reddit: yourname
-  linkedin: abhishek-lalwani-ba24a6138
+  linkedin: abhisheklalwani
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
